@@ -84,6 +84,7 @@ ul {
 
 a {
     text-decoration: none;
+    color: var(--first-color-alt);
 }
 
 img {
@@ -312,6 +313,7 @@ body.dark-theme {
     padding: 5px;
     border-radius: 50%;
     display: flex;
+    font-size: 1.01rem;
 }
 
 
