@@ -1033,7 +1033,8 @@ input[type="search"]::-webkit-search-clear-button {
         align-self: center;
     }
 
-    .value__img{
+    .value__img {
+        
     }
 
     .home__data {
