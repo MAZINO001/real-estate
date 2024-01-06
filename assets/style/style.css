@@ -1028,6 +1028,14 @@ input[type="search"]::-webkit-search-clear-button {
         align-self: flex-end;
     }
 
+    .value__orbe,
+    .contact__orbe {
+        align-self: center;
+    }
+
+    .value__img{
+    }
+
     .home__data {
         padding-right: 2rem;
     }
@@ -1059,6 +1067,7 @@ input[type="search"]::-webkit-search-clear-button {
         grid-template-columns: repeat(2, max-content);
         justify-content: space-between;
     }
+
 }
 
 
